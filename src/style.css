@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+:root {
+  font-family: 'Black Han Sans', sans-serif;
+}
+
+.BackGround {
+  text-align: center;
+  font-size: 100px;
+  font-weight: 400;
+  align-items: center;
+}
+
+.title {
+  justify-content: center;
+}
